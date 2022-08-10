@@ -1,0 +1,14 @@
+body {
+  background-color: red ;
+}
+h1 {
+ text-align: center;
+}
+.menuPrincipal {
+  position: relative;
+  width: 100%;
+  height: 100px;
+  background-color: blueviolet;
+  font-family: 'Courier New', Courier, monospace;
+
+}
